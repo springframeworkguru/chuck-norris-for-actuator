@@ -8,11 +8,13 @@ Random Chuck Norris quote generator for Spring Boot Actuator
 
 Maven:
 
-`        <dependency>
-             <groupId>guru.springframework</groupId>
-             <artifactId>chuck-norris-for-actuator</artifactId>
-             <version>0.0.1-SNAPSHOT</version>
-         </dependency>`
+```
+<dependency>
+    <groupId>guru.springframework</groupId>
+    <artifactId>chuck-norris-for-actuator</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+</dependency>
+```
          
 2. Add Bean Configuration to your Spring Boot Project
          
@@ -23,6 +25,8 @@ Maven:
               
 3. Start you application, go to /info
 
-`{
+```
+{
    "Chuck Norris" : "Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill."
- }`
+ }
+ ```
