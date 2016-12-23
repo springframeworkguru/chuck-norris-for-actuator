@@ -4,7 +4,12 @@ import org.springframework.boot.actuate.info.Info;
 import org.springframework.boot.actuate.info.InfoContributor;
 
 /**
- * Created by jt on 12/12/16.
+ * Chuck Norris Information Contributor for Spring Boot Actuator.
+ *
+ * This will add random Chuck Norris Quotes to the info tab, when you are using Spring Boot Actuator.
+ *
+ * See GitHub Readme or ChuckNorrisDemo project for working example.
+ * @author John Thompson
  */
 public class ChuckNorrisInfoContributor implements InfoContributor {
 

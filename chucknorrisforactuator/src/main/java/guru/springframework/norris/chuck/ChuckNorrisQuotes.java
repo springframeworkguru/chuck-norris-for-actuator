@@ -6,7 +6,9 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * Created by jt on 12/12/16.
+ * Simple list of Chuck Norris sayings.
+ *
+ * @author John Thompson
  */
 public class ChuckNorrisQuotes {
 
