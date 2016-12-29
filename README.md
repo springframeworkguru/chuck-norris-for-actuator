@@ -6,14 +6,19 @@ Random Chuck Norris quote generator for Spring Boot Actuator
 ## Usage
 1. Add SFG Chuck Norris for Actuator to your project
 
-Maven:
+####Maven:
 
 ```
 <dependency>
     <groupId>guru.springframework</groupId>
     <artifactId>chuck-norris-for-actuator</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
 </dependency>
+```
+         
+####Gradle:
+```
+compile group: 'guru.springframework', name: 'chuck-norris-for-actuator', version: '0.0.2'
 ```
          
 2. Add Bean Configuration to your Spring Boot Project
