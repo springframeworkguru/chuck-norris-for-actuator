@@ -16,7 +16,7 @@ public class ChuckNorrisQuotes {
 
     public ChuckNorrisQuotes() {
 
-        quotes = new ArrayList<>(123);
+        quotes = new ArrayList<>(124);
 
         quotes.add("Chuck Norris cannot love, he can only not kill.");
         quotes.add("All browsers support the hex definitions #chuck and #norris for the colors black and blue.");
@@ -141,6 +141,7 @@ public class ChuckNorrisQuotes {
         quotes.add("Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.");
         quotes.add("There are no such things as tornadoes. Chuck Norris just hates trailer parks.");
         quotes.add("Chuck Norris is the only man who has, literally, beaten the odds. With his fists.");
+        quotes.add("Chuck Norris counted to infinity. Twice.");
     }
 
     public String getRandomQuote(){
