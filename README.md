@@ -3,7 +3,7 @@
 ## Description
 Random Chuck Norris quote generator for Spring Boot Actuator 
 
-## Usage
+## Installation and Usage
 1. Add SFG Chuck Norris for Actuator to your project
 
 ####Maven:
