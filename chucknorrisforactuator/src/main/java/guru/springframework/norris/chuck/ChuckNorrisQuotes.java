@@ -135,13 +135,20 @@ public class ChuckNorrisQuotes {
         quotes.add("Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.");
         quotes.add("Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.");
         quotes.add("The First rule of Chuck Norris is: you do not talk about Chuck Norris.");
-        quotes.add("Chuck Norris doesnt wear a watch, HE decides what time it is.");
+        quotes.add("Chuck Norris doesn't wear a watch, HE decides what time it is.");
         quotes.add("Chuck Norris causes the Windows Blue Screen of Death.");
         quotes.add("Chuck Norris can compile syntax errors.");
         quotes.add("Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.");
         quotes.add("There are no such things as tornadoes. Chuck Norris just hates trailer parks.");
         quotes.add("Chuck Norris is the only man who has, literally, beaten the odds. With his fists.");
         quotes.add("Chuck Norris counted to infinity. Twice.");
+        quotes.add("Chuck Norris can put out a fire with a gallon of gasoline.");
+        quotes.add("Death once had a near-Chuck-Norris experience.");
+        quotes.add("Chuck Norris can kill your imaginary friends.");
+        quotes.add("Chuck Norris can hear sign language.");
+        quotes.add("Chuck Norris beat the sun in a staring contest.");
+        quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris");
+        quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
     }
 
     public String getRandomQuote(){
