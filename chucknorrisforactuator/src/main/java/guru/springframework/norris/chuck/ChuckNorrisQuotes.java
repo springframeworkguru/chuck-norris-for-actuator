@@ -108,7 +108,7 @@ public class ChuckNorrisQuotes {
         quotes.add("Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.");
         quotes.add("According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.");
         quotes.add("Chuck Norris' first job was as a paperboy. There were no survivors.");
-        quotes.add("Chuck Norris does infinit loops in 4 seconds.");
+        quotes.add("Chuck Norris does infinite loops in 4 seconds.");
         quotes.add("Chuck Norris doesn't pair program.");
         quotes.add("Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.");
         quotes.add("Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.");
