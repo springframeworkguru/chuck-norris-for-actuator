@@ -16,7 +16,7 @@ public class ChuckNorrisQuotes {
 
     public ChuckNorrisQuotes() {
 
-        quotes = new ArrayList<>(124);
+        quotes = new ArrayList<>(132);
 
         quotes.add("Chuck Norris cannot love, he can only not kill.");
         quotes.add("All browsers support the hex definitions #chuck and #norris for the colors black and blue.");
@@ -149,6 +149,7 @@ public class ChuckNorrisQuotes {
         quotes.add("Chuck Norris beat the sun in a staring contest.");
         quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris");
         quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
+        quotes.add("Chuck Norris is so bad, when he slices onions, the onions cry.");
     }
 
     public String getRandomQuote(){
