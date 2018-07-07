@@ -16,7 +16,7 @@ public class ChuckNorrisQuotes {
 
     public ChuckNorrisQuotes() {
 
-        quotes = new ArrayList<>(132);
+        quotes = new ArrayList<>(142);
 
         quotes.add("Chuck Norris cannot love, he can only not kill.");
         quotes.add("All browsers support the hex definitions #chuck and #norris for the colors black and blue.");
@@ -150,6 +150,17 @@ public class ChuckNorrisQuotes {
         quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris.");
         quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
         quotes.add("Chuck Norris is so bad, when he slices onions, the onions cry.");
+        quotes.add("Chuck Norris can win a game of Connect Four in three moves.");
+        quotes.add("One day, Chuck Norris lost his wedding ring. Since then it's a mess in the Middle-earth.");
+        quotes.add("Chuck Norris knows Pi's last decimal, and the next one too.");
+        quotes.add("One day a guy refused to give a cigarette to Chuck Norris. Since then, \"Smoking kills\".");
+        quotes.add("Chuck Norris found page 404.");
+        quotes.add("Chuck Norris x 0 = Chuck Norris. One can't eliminate Chuck Norris that easy.");
+        quotes.add("If Chuck Norris gives you an appointment on February 30th... you go.");
+        quotes.add("Windows never asks Chuck Norris to send the Error Report. Bill Gates comes to get it himself with his profound apologizes.");
+        quotes.add("ChuckNorris.bmp and ChuckNorris.jpg have the same size: Chuck Norris is incompressible.");
+        quotes.add("Chuck Norris can do Ctrl+Alt+Del with two fingers.");
+        quotes.add("Chuck Norris can draw a 361° circle.");
     }
 
     public String getRandomQuote(){
