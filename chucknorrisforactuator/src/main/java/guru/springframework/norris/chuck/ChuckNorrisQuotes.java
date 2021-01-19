@@ -16,7 +16,7 @@ public class ChuckNorrisQuotes {
 
     public ChuckNorrisQuotes() {
 
-        quotes = new ArrayList<>(132);
+        quotes = new ArrayList<>(142);
 
         quotes.add("Chuck Norris cannot love, he can only not kill.");
         quotes.add("All browsers support the hex definitions #chuck and #norris for the colors black and blue.");
@@ -25,7 +25,7 @@ public class ChuckNorrisQuotes {
         quotes.add("Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.");
         quotes.add("Chuck Norris compresses his files by doing a flying round house kick to the hard drive.");
         quotes.add("MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.");
-        quotes.add("Chuck Norris played Russian Roulette with a fully loaded gun and won");
+        quotes.add("Chuck Norris played Russian Roulette with a fully loaded gun and won.");
         quotes.add("Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.");
         quotes.add("Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.");
         quotes.add("Chuck Norris can read from an input stream.");
@@ -48,17 +48,17 @@ public class ChuckNorrisQuotes {
         quotes.add("One time, at band camp, Chuck Norris ate a percussionist.");
         quotes.add("Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.");
         quotes.add("Chuck Norris knows everything there is to know - Except for the definition of mercy.");
-        quotes.add("Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.");
+        quotes.add("Divide Chuck Norris by zero and you will in fact get one... one bad-ass that is.");
         quotes.add("Chuck Norris' unit tests don't run. They die.");
         quotes.add("The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.");
         quotes.add("Chuck Norris' programs never exit, they terminate.");
         quotes.add("Chuck Norris can write multi-threaded applications with a single thread.");
         quotes.add("Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.");
         quotes.add("If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.");
-        quotes.add("Chuck Norris uses tabasco sauce instead of visine.");
+        quotes.add("Chuck Norris uses Tabasco sauce instead of Visine.");
         quotes.add("When Chuck Norris break the build, you can't fix it, because there is not a single line of code left.");
         quotes.add("Chuck Norris can make a class that is both abstract and final.");
-        quotes.add("When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.");
+        quotes.add("When Chuck Norris does a push-up, he isn't lifting himself up, he's pushing the Earth down.");
         quotes.add("As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.");
         quotes.add("Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.");
         quotes.add("The quickest way to a man's heart is with Chuck Norris' fist.");
@@ -97,10 +97,10 @@ public class ChuckNorrisQuotes {
         quotes.add("Only Chuck Norris can prevent forest fires.");
         quotes.add("Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.");
         quotes.add("Ninjas want to grow up to be just like Chuck Norris. But usually they grow up just to be killed by Chuck Norris.");
-        quotes.add("Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.");
+        quotes.add("Chuck Norris's show is called Walker, Texas Ranger because Chuck Norris doesn't run.");
         quotes.add("Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.");
         quotes.add("It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.");
-        quotes.add("Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint remover, and wood-grain alcohol.   ");
+        quotes.add("Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint remover, and wood-grain alcohol.");
         quotes.add("Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.");
         quotes.add("Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.");
         quotes.add("If Chuck Norris wants your opinion, he'll beat it into you.");
@@ -112,7 +112,7 @@ public class ChuckNorrisQuotes {
         quotes.add("Chuck Norris doesn't pair program.");
         quotes.add("Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.");
         quotes.add("Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.");
-        quotes.add("Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.");
+        quotes.add("Count from one to ten. That's how long it would take Chuck Norris to kill you...Forty seven times.");
         quotes.add("Chuck Norris insists on strongly-typed programming languages.");
         quotes.add("All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.");
         quotes.add("President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.");
@@ -121,15 +121,15 @@ public class ChuckNorrisQuotes {
         quotes.add("When Chuck Norris plays Monopoly, it affects the actual world economy.");
         quotes.add("Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.");
         quotes.add("Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.");
-        quotes.add("The class object inherits from Chuck Norris");
+        quotes.add("The class Object inherits from Chuck Norris.");
         quotes.add("Everybody loves Raymond. Except Chuck Norris.");
         quotes.add("Chuck Norris is the reason why Waldo is hiding.");
-        quotes.add("Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face");
+        quotes.add("Two wrongs don't make a right. Unless you're Chuck Norris. Then two wrongs make a roundhouse kick to the face.");
         quotes.add("Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.");
-        quotes.add("Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.");
+        quotes.add("Police label anyone attacking Chuck Norris as a Code 45-11... A suicide.");
         quotes.add("Chuck Norris can slam a revolving door.");
         quotes.add("Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.");
-        quotes.add("Chuck Norris could use anything in java.util.* to kill you, including the javadocs.");
+        quotes.add("Chuck Norris could use anything in java.util.* to kill you, including the Javadoc.");
         quotes.add("When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.");
         quotes.add("Chuck Norris doesn't daydream. He's too busy giving other people nightmares.");
         quotes.add("Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.");
@@ -146,10 +146,21 @@ public class ChuckNorrisQuotes {
         quotes.add("Death once had a near-Chuck-Norris experience.");
         quotes.add("Chuck Norris can kill your imaginary friends.");
         quotes.add("Chuck Norris can hear sign language.");
-        quotes.add("Chuck Norris beat the sun in a staring contest.");
-        quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris");
+        quotes.add("Chuck Norris beats the sun in a staring contest.");
+        quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris.");
         quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
         quotes.add("Chuck Norris is so bad, when he slices onions, the onions cry.");
+        quotes.add("Chuck Norris can win a game of Connect Four in three moves.");
+        quotes.add("One day, Chuck Norris lost his wedding ring. Since then it's a mess in the Middle-earth.");
+        quotes.add("Chuck Norris knows Pi's last decimal, and the next one too.");
+        quotes.add("One day a guy refused to give a cigarette to Chuck Norris. Since then, \"Smoking kills\".");
+        quotes.add("Chuck Norris found page 404.");
+        quotes.add("Chuck Norris x 0 = Chuck Norris. One can't eliminate Chuck Norris that easy.");
+        quotes.add("If Chuck Norris gives you an appointment on February 30th... you go.");
+        quotes.add("Windows never asks Chuck Norris to send the Error Report. Bill Gates comes to get it himself with his profound apologizes.");
+        quotes.add("ChuckNorris.bmp and ChuckNorris.jpg have the same size: Chuck Norris is incompressible.");
+        quotes.add("Chuck Norris can do Ctrl+Alt+Del with two fingers.");
+        quotes.add("Chuck Norris can draw a 361° circle.");
     }
 
     public String getRandomQuote(){
