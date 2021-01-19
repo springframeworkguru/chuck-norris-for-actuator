@@ -12,13 +12,13 @@ Random Chuck Norris quote generator for Spring Boot Actuator
 <dependency>
     <groupId>guru.springframework</groupId>
     <artifactId>chuck-norris-for-actuator</artifactId>
-    <version>0.0.2</version>
+    <version>2.4.0</version>
 </dependency>
 ```
          
 #### Gradle:
 ```
-compile group: 'guru.springframework', name: 'chuck-norris-for-actuator', version: '0.0.2'
+compile group: 'guru.springframework', name: 'chuck-norris-for-actuator', version: '2.4.0'
 ```
          
 2. Add Bean Configuration to your Spring Boot Project
