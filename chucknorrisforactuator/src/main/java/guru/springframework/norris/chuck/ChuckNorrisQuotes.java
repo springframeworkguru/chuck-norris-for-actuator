@@ -168,13 +168,10 @@ public class ChuckNorrisQuotes {
              "Chuck Norris knows how to exit VIM",
              "All the codes Chuck Norris wrote is cross platform and can be run on any electronic"
              + " device or quantum computer"
-             
         );
-
-        
     }
 
     public String getRandomQuote(){
-        return quotes.get(ThreadLocalRandom.current().nextInt(1, quotes.size()));
+        return quotes.get(ThreadLocalRandom.current().nextInt(0, quotes.size()));
     }
 }
