@@ -164,6 +164,6 @@ public class ChuckNorrisQuotes {
     }
 
     public String getRandomQuote(){
-        return quotes.get(ThreadLocalRandom.current().nextInt(1, quotes.size()));
+        return quotes.get(ThreadLocalRandom.current().nextInt(0, quotes.size()));
     }
 }
