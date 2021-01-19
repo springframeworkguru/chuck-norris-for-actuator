@@ -150,6 +150,11 @@ public class ChuckNorrisQuotes {
         quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris.");
         quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
         quotes.add("Chuck Norris is so bad, when he slices onions, the onions cry.");
+        quotes.add("When the bogeyman goes to sleep, he checks under his bed for Chuck Norris.");
+        quotes.add("Time waits for no man. Unless that man is Chuck Norris.");
+        quotes.add("If you want a list of Chuck Norris' enemies, just check the extinct species list.");
+        quotes.add("Once a cobra bit Chuck Norris' leg. After five days of excruciating pain, the cobra died.");
+        quotes.add("Chuck Norris can build a snowman out of rain.");
         quotes.add("Chuck Norris can win a game of Connect Four in three moves.");
         quotes.add("One day, Chuck Norris lost his wedding ring. Since then it's a mess in the Middle-earth.");
         quotes.add("Chuck Norris knows Pi's last decimal, and the next one too.");
