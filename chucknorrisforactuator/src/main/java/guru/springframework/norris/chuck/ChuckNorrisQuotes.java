@@ -166,6 +166,8 @@ public class ChuckNorrisQuotes {
              "Chuck Norris doesn't flush the toilet, he scares the shit out of it.",
              "Chuck Norris is so bad, when he slices onions, the onions cry.",
              "Chuck Norris knows how to exit VIM",
+             "Chuck decided to make his password \"incorrect\" because if he type it in wrong, his computer will remind"
+             + " him, \"Your password is incorrect.\"",
              "All the codes Chuck Norris wrote is cross platform and can be run on any electronic"
              + " device or quantum computer"
         );
