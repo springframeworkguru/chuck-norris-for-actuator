@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>chuck-norris-for-actuator-parent</artifactId>
-    <version>3.0.0-M4-SNAPSHOT</version>
+    <version>3.0.0-M4</version>
     <modules>
         <module>chucknorrisforactuator</module>
         <module>chucknorrisdemo</module>
@@ -50,7 +50,7 @@
         <developerConnection>scm:git:https://github.com/springframeworkguru/chuck-norris-for-actuator.git
         </developerConnection>
         <url>https://github.com/springframeworkguru/chuck-norris-for-actuator</url>
-        <tag>HEAD</tag>
+        <tag>chuck-norris-for-actuator-parent-3.0.0-M4</tag>
     </scm>
 
     <distributionManagement>
