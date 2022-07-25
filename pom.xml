@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>chuck-norris-for-actuator-parent</artifactId>
-    <version>3.0.0-M3-SNAPSHOT</version>
+    <version>3.0.0-M3</version>
     <modules>
         <module>chucknorrisforactuator</module>
         <module>chucknorrisdemo</module>
@@ -36,7 +36,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.0.0-M3</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
     <properties>
@@ -50,7 +50,7 @@
         <developerConnection>scm:git:https://github.com/springframeworkguru/chuck-norris-for-actuator.git
         </developerConnection>
         <url>https://github.com/springframeworkguru/chuck-norris-for-actuator</url>
-        <tag>HEAD</tag>
+        <tag>chuck-norris-for-actuator-parent-3.0.0-M3</tag>
     </scm>
 
     <distributionManagement>
