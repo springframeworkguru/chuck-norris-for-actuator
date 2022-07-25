@@ -3,7 +3,7 @@
     <parent>
         <artifactId>chuck-norris-for-actuator-parent</artifactId>
         <groupId>guru.springframework</groupId>
-        <version>2.4.1-SNAPSHOT</version>
+        <version>3.0.0-M3-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>guru.springframework</groupId>
             <artifactId>chuck-norris-for-actuator</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

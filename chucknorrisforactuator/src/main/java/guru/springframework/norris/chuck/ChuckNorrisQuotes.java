@@ -1,9 +1,7 @@
 package guru.springframework.norris.chuck;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
@@ -15,6 +13,9 @@ public class ChuckNorrisQuotes {
 
     private List<String> quotes;
 
+    /**
+     * Default constructor - loads quotes
+     */
     public ChuckNorrisQuotes() {
 
         quotes = Arrays.asList(
@@ -171,6 +172,11 @@ public class ChuckNorrisQuotes {
         );
     }
 
+    /**
+     * Returns a random joke.
+     *
+     * @return Chuck Norris Joke
+     */
     public String getRandomQuote(){
         return quotes.get(ThreadLocalRandom.current().nextInt(0, quotes.size()));
     }

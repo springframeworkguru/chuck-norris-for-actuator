@@ -11,6 +11,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ChuckNorrisForActuatorApplication {
 
+	/**
+	 * Spring Boot main class.
+	 *
+	 * @param args not used
+	 */
 	public static void main(String[] args) {
 		SpringApplication.run(ChuckNorrisForActuatorApplication.class, args);
 	}

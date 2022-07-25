@@ -10,6 +10,10 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class ChuckNorrisConfig {
 
+    /**
+     * Returns new instance.
+     * @return - instance
+     */
     @Bean
     public ChuckNorrisInfoContributor chuckNorrisInfoContributor(){
         return new ChuckNorrisInfoContributor();
